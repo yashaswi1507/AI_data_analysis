@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+requests
+openpyxl
+fastapi
+uvicorn
+python-multipart
